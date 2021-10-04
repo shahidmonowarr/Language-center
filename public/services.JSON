@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "6159e59df7a78b9a8f68d7a0",
+        "index": 0,
+        "price": "$160",
+        "img": "https://www.britishcouncil.ma/sites/default/files/general_english.jpg",
+        "title": "General Course"
+    },
+    {
+        "_id": "6159e59ddcea1dd5c68d7cf2",
+        "index": 1,
+        "price": "$179",
+        "img": "https://learningcatalyst.in/wp-content/uploads/2017/12/o-TEACHERS-AND-STUDENTS-facebook-1500x750.jpg",
+        "title": "Course For Juniors"
+    },
+    {
+        "_id": "6159e59d62632ab9a5e33e26",
+        "index": 2,
+        "price": "$101",
+        "img": "https://cdn.ila-france.com/wp-content/uploads/2017/02/intensive-french-course-adults.jpg",
+        "title": "Courses For Adults"
+    },
+    {
+        "_id": "6159e59d4f94a159acf028cb",
+        "index": 3,
+        "price": "$267",
+        "img": "https://images01.military.com/sites/default/files/styles/full/public/media/veteran-jobs/content-images/2014/10/teacher.jpg?itok=Xrr3aLOH",
+        "title": "Course For Teachers"
+    },
+    {
+        "_id": "6159e59d29970971a7e016fd",
+        "index": 4,
+        "price": "$195",
+        "img": "https://www.fluentu.com/blog/wp-content/uploads/2016/02/best-languages-for-business.jpg",
+        "title": "Language For Business"
+    },
+    {
+        "_id": "6159e59dd0dc4f68a536c174",
+        "index": 5,
+        "price": "$176",
+        "img": "https://ipubuzz.com/wp-content/uploads/2020/07/exams.jpg",
+        "title": "Any Age Course"
+    },
+    {
+        "_id": "6159e59d93fb358008848f13",
+        "index": 6,
+        "price": "$255",
+        "img": "https://deutschothek.com/wp-content/uploads/2016/02/course_Intensive-course.jpg",
+        "title": "Intensive Course"
+    },
+    {
+        "_id": "6159e59da5be752aa97ee175",
+        "index": 7,
+        "price": "$285",
+        "img": "https://www.thoughtco.com/thmb/71VAqiRnpaua39rT3jmDyvitbWQ=/1500x1000/filters:fill(auto,1)/GettyImages-175138374-59bfb6bd03f4020010a0c8f2.jpg",
+        "title": "Mastering Grammar"
+    },
+    {
+        "_id": "6159e59d2cb879d0b6045216",
+        "index": 8,
+        "price": "$200",
+        "img": "https://www.gofluent.com/blog/wp-content/uploads/2017/04/More-Promotable-Employees-Rectangle-1.jpg",
+        "title": "Language Training"
+    },
+    {
+        "_id": "6159e59dc102f7a88bbd24aa",
+        "index": 9,
+        "price": "$166",
+        "img": "https://epale.ec.europa.eu/sites/default/files/q3_basic_skills_post.png",
+        "title": "Basic skills"
+    }
+]

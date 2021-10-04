@@ -1,0 +1,10 @@
+.logo-img img{
+max-width: 100%;
+}
+.title{
+    padding: 20px;
+    font-size: 60px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #001f3f;
+}
