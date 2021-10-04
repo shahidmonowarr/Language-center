@@ -4,18 +4,30 @@ import { useEffect } from 'react';
 import Service from '../Service/Service';
 import './Services.css'
 const Services = () => {
+    // initial state 
     const [courses, setCourses] = useState([]);
+
+    const [searchText, setSearchText] = useState("");
+
+    // data loading 
     useEffect(() => {
         fetch('services.JSON')
             .then(res => res.json())
             .then(data => setCourses(data));
-    }, []);
-    console.log(courses);
+    }, [searchText]);
+
+    // function for change search value 
+    const handleOnChange = (e) => {
+
+        setSearchText(e.target.value);
+        console.log(e.target.value);
+    };
+
     return (
-        <div className="service-container">
+        <div className="service-container container">
             <h2 className="title">Our Courses</h2>
             <div className="search-box">
-                <input type="text" className="p-1" placeholder="enter course name" />
+                <input onChange={handleOnChange} type="text" className="p-1" placeholder="enter course name" />
                 <button className="btn btn-warning mb-1">Search</button>
             </div>
             <div className="courses">

@@ -12,6 +12,8 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   return (
+    // react router dom
+
     <div className="App">
       <BrowserRouter>
         <Header></Header>

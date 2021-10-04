@@ -1,3 +1,8 @@
+.test-section{
+    height: 500px;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80);
+}
 .logo-img img{
 max-width: 100%;
 }
@@ -7,4 +12,26 @@ max-width: 100%;
     font-weight: 700;
     font-family: sans-serif;
     color: #001f3f;
+}
+
+.cart{
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+    height: 300px;
+    background-color: lightgray;
+}
+.test-section-title{
+    padding-top: 70px;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+.test-details{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: 500;
+    padding: 0, 20px;
 }
