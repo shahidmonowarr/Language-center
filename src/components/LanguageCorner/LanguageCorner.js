@@ -23,7 +23,7 @@ const LanguageCorner = () => {
                             <div key={brochure._id} className="col-md-4 border-end p-5">
                                 <div>
                                     <h2 className="fs-2 fw-bold">{brochure.title}</h2>
-                                    <h6>Description: {brochure.description}</h6>
+                                    <h6>{brochure.description}</h6>
                                     <Button variant="warning fw-bold fs-6 mt-3 mb-5">Download PDF</Button>
                                 </div>
                             </div>

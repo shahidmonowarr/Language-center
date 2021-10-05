@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import './Home.css'
 import { Link } from 'react-router-dom';
+import Special from '../Special/Special';
 
 
 const Home = () => {
@@ -22,6 +23,9 @@ const Home = () => {
                     and help choose the best group course.</p>
                 <Button variant="info fw-bold fs-5 my-3 p-3 text-white">Start Now</Button>
             </div>
+
+            <Special></Special>
+
             <div >
                 <h2 className="title">What We Offer</h2>
                 <div className="courses">
